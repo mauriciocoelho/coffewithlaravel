@@ -16,7 +16,10 @@ Follow our videos to learn each step of this project and much more. Join us on t
 
 ---
 
-**Useful Links:**
+**Follow Us:**
 
-- 🌟 [Subscribe to the *Coffee with Laravel* Channel](#)  
-- 💬 Join our community and share your questions and insights!  
+- 🌟 [Subscribe to our YouTube Channel](https://www.youtube.com/@coffeewithlaravel582)  
+- 🎥 [Follow us on TikTok](https://www.tiktok.com/@coffewithlaravel?_t=ZM-8sqDlvdUiuc&_r=1)  
+- 📸 [Follow us on Instagram](https://www.instagram.com/coffeelaravel/)  
+
+Stay connected and share your questions and insights with our community! 💬
